@@ -7,5 +7,5 @@
  For the ETL (EXTRACT, TRANFORM,LOAD)   ,i have firts used MICROSOFT VISUALN STUDIO (MSVS) / SSIS for removing bad records and transfering it to SQl SERVER
  and then cleaned the data using SSAS
 
- The is also showed in the project and data i have used
+ The Query is also showed in the project and data i have used
  
